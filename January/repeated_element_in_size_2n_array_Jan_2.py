@@ -1,10 +1,8 @@
 """
 961. N-Repeated Element in Size 2N Array
-Solved
+
 Easy
-Topics
-premium lock icon
-Companies
+
 You are given an integer array nums with the following properties:
 
 nums.length == 2 * n.
